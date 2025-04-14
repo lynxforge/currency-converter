@@ -23,7 +23,11 @@ This application is a currency converter built with Java Swing UI and integrated
 1. **Clone the Repository**:
 
    ```bash
+<<<<<<< HEAD
    git clone https://github.com/lynxforge/currency-converter.git
+=======
+   git clone https://github.com/your-username/currency-converter.git
+>>>>>>> cc940d182e60c896299b14b3f88a156f76e65b43
    cd currency-converter
 2. **Compile and Run the Application**:
    
