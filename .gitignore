@@ -1,8 +1,13 @@
-# Compiled class file
-*.class
+# Compiled output directory
+bin/
 
-# Log file
+# Log files
 *.log
+
+# IDE specific files
+.idea/
+*.iml
+.vscode/
 
 # BlueJ files
 *.ctxt
@@ -11,7 +16,7 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
+# NOTE: Removed *.jar so dependencies in lib/ can be tracked.
 *.war
 *.nar
 *.ear

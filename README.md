@@ -23,16 +23,16 @@ This application is a currency converter built with Java Swing UI and integrated
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/currency-converter-app.git
-   cd currency-converter-app
+   git clone https://github.com/lynxforge/currency-converter.git
+   cd currency-converter
 2. **Compile and Run the Application**:
    
     ```bash
-    javac interface1.java
-    java interface1
+    javac interfacee.java
+    java interfacee
     
 ### Usage:
--Launch the application (interface1.java) to open the currency converter UI.
+-Launch the application (interfacee.java) to open the currency converter UI.
 -Select currencies from drop-down menus, enter the amount, and click "Convert".
 
 
