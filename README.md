@@ -32,9 +32,9 @@ The Currency Converter is a Java Swing-based application that allows users to co
     java interfacee
     
 ### Usage:
--Launch the application by running interfacee.java.
--Use the drop-down menus to select source and target currencies.
--Enter the amount to convert and click "Convert".
+- Launch the application by running interfacee.java.
+- Use the drop-down menus to select source and target currencies.
+- Enter the amount to convert and click "Convert".
 
 
 ### License
