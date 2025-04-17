@@ -2,33 +2,29 @@
 
 ## Overview
 
-This application is a currency converter built with Java Swing UI and integrated with a JSON API to fetch real-time exchange rates. Users can convert between different currencies and track conversion history.
+The Currency Converter is a Java Swing-based application that allows users to convert between major currencies using real-time exchange rates fetched from a JSON API. It also maintains a history of recent conversions for reference.
 
 ## Features
 
-- **Java Swing UI**: Provides an intuitive graphical interface for currency conversion.
-- **Real-time Exchange Rates**: Fetches current exchange rates from a JSON API.
-- **Currency Conversion**: Allows users to convert between major currencies.
-- **Conversion History**: Keeps track of recent conversions for easy reference.
+- **Java Swing UI**: User-friendly graphical interface for seamless currency conversion.  
+- **Real-Time Exchange Rates**: Integrates with a JSON API to provide up-to-date exchange rates.  
+- **Currency Conversion**: Supports conversions between a wide range of major currencies.  
+- **Conversion History**: Logs recent conversions for user convenience.
 
 ## Getting Started
 
 ### Prerequisites
 
-- Java Development Kit (JDK) installed on your system.
-- Internet connection to fetch real-time exchange rates via JSON API.
+- Java Development Kit (JDK) installed on your system.  
+- Active internet connection to retrieve real-time exchange rates from the API.
 
 ### Installation
 
-1. **Clone the Repository**:
-
+1. **Clone the Repository**  
    ```bash
-<<<<<<< HEAD
    git clone https://github.com/lynxforge/currency-converter.git
-=======
-   git clone https://github.com/your-username/currency-converter.git
->>>>>>> cc940d182e60c896299b14b3f88a156f76e65b43
    cd currency-converter
+
 2. **Compile and Run the Application**:
    
     ```bash
@@ -36,8 +32,9 @@ This application is a currency converter built with Java Swing UI and integrated
     java interfacee
     
 ### Usage:
--Launch the application (interfacee.java) to open the currency converter UI.
--Select currencies from drop-down menus, enter the amount, and click "Convert".
+-Launch the application by running interfacee.java.
+-Use the drop-down menus to select source and target currencies.
+-Enter the amount to convert and click "Convert".
 
 
 ### License
