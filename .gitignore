@@ -19,7 +19,6 @@ bin/
 # Package Files #
 # NOTE: Removed *.jar so dependencies in lib/ can be tracked.
 *.war
-*.jar
 *.nar
 *.ear
 *.zip
