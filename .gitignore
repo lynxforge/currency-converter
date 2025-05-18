@@ -9,7 +9,6 @@ bin/
 *.iml
 *.ipr
 .vscode/
-lib/
 
 # BlueJ files
 *.ctxt
@@ -20,6 +19,7 @@ lib/
 # Package Files #
 # NOTE: Removed *.jar so dependencies in lib/ can be tracked.
 *.war
+lib/org.json.jar
 *.nar
 *.ear
 *.zip
