@@ -15,7 +15,6 @@ import org.json.JSONException;
 
 public class converter {
 
-    // WARNING: Hardcoding API keys is insecure. Consider environment variables or config files.
     private static final String API_KEY = "87MHTyhjg6ryM2OtG5XYks8";
     private static final String API_URL = "https://fcsapi.com/api-v3/forex/latest";
     private static final int TIMEOUT_MS = 5000; // 5 seconds timeout
