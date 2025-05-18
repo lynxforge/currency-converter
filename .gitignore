@@ -9,6 +9,7 @@ bin/
 *.iml
 *.ipr
 .vscode/
+lib/
 
 # BlueJ files
 *.ctxt
